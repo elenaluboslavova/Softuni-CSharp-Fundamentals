@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.genruntimeconfig.cache
