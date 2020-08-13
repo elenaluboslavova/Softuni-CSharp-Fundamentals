@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.genruntimeconfig.cache
