@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache
