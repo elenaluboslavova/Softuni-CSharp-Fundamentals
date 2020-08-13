@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\bin\Debug\netcoreapp3.1\01. Counter Strike.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam Retake - 07 April 2020\01. Counter Strike\obj\Debug\netcoreapp3.1\01. Counter Strike.genruntimeconfig.cache
