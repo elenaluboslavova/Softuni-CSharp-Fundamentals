@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.genruntimeconfig.cache

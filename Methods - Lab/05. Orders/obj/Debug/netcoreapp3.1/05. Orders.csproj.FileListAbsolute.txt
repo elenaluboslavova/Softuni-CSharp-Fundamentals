@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache
