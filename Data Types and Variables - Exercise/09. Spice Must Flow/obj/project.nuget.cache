@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3h0pFXPR5OncZHqPALXEfZ8EjI1g42woenIfHSHhwT1KgWCsLyKTajPBq/uHsTvtfw+YqOQBJhLMNH9/4t30Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAb/38QVFExPxfSR6Zpn9gYhoqCcCrd+9vIDbE0PsP5V1Y/W3AJ94FMuhD469Av8xT7rRXpbAIckn+SLFqi5/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Exercise\\10. Poke Mon\\10. Poke Mon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
