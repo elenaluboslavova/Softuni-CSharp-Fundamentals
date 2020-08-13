@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.genruntimeconfig.cache

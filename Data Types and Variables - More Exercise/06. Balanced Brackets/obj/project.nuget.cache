@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "066I6xtNg6mNiQoZ5WubOY4OkyjBcyXFboBTjjJjJkAuE7dnlLIkf0f43ckTlvCd2EKxlb9d+zACd5kG4/OOHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - More Exercise\\06. Balanced Brackets\\06. Balanced Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
