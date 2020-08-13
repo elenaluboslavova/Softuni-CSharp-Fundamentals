@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.genruntimeconfig.cache
