@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQGvQhbuzzuyRYU+H/2gE1zbJPXyToaY1SJB+KxEZ6ceBUyr4UqU6qLFMoglyk3ZYV6FeBpNFHNcf+5Qwl9msg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Lab\\09. Chars to String\\09. Chars to String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
