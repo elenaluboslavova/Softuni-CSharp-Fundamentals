@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache
