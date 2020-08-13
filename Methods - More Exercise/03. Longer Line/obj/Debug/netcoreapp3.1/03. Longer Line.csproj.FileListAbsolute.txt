@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.genruntimeconfig.cache

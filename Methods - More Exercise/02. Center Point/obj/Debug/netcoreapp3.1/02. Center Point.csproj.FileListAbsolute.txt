@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.genruntimeconfig.cache
