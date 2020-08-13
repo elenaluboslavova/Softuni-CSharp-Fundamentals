@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.genruntimeconfig.cache

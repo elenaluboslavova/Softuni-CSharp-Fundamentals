@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\bin\Debug\netcoreapp3.1\03.GamingStore.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\03.GamingStore\obj\Debug\netcoreapp3.1\03.GamingStore.genruntimeconfig.cache

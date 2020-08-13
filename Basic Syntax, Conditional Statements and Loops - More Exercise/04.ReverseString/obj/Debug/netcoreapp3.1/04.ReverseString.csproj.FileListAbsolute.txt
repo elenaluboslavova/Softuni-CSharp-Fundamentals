@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.genruntimeconfig.cache
