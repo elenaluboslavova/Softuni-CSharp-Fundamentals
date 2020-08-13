@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 04 April 2020 Group 1\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache
