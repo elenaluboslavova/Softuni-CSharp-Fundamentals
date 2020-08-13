@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Associative Arrays - More Exercise", "Associative Arrays - More Exercise\Associative Arrays - More Exercise.csproj", "{62246336-0528-4200-AED1-5412E7913012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Ranking", "01. Ranking\01. Ranking.csproj", "{9E308FE4-A2FC-4EAD-AF37-EEEE1018431B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62246336-0528-4200-AED1-5412E7913012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62246336-0528-4200-AED1-5412E7913012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62246336-0528-4200-AED1-5412E7913012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62246336-0528-4200-AED1-5412E7913012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E308FE4-A2FC-4EAD-AF37-EEEE1018431B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E308FE4-A2FC-4EAD-AF37-EEEE1018431B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E308FE4-A2FC-4EAD-AF37-EEEE1018431B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E308FE4-A2FC-4EAD-AF37-EEEE1018431B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04453E8-A927-4BAA-B189-996A716DDE8B}
+	EndGlobalSection
+EndGlobal
