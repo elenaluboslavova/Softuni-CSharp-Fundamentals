@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\bin\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Online Mid Exam - 5 July 2020\03. Numbers\obj\Debug\netcoreapp3.1\03. Numbers.genruntimeconfig.cache
