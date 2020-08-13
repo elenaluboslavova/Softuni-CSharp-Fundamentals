@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache
