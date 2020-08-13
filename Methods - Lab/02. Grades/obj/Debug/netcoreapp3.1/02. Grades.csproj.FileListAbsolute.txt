@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.genruntimeconfig.cache

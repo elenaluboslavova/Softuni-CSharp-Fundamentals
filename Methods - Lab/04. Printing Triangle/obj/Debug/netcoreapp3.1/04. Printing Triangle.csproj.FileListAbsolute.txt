@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\bin\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.genruntimeconfig.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Methods - Lab\04. Printing Triangle\obj\Debug\netcoreapp3.1\04. Printing Triangle.csprojAssemblyReference.cache
