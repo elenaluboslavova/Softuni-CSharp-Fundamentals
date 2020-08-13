@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.genruntimeconfig.cache
