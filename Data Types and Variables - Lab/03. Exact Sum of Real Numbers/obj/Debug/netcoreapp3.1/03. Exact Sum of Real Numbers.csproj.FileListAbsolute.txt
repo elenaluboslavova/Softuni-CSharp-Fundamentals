@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.genruntimeconfig.cache
