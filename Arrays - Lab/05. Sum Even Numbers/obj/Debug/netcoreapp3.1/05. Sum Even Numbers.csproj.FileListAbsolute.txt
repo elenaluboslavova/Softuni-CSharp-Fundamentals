@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.genruntimeconfig.cache

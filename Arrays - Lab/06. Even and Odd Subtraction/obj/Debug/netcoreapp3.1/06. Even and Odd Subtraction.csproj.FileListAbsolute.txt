@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Arrays - Lab\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ji88z6tqYu15w6/Y70n2/0aefnJC5OCq9bPHtWwcdQxaPUa7YyVDvHOATCY8WvranQ0fG5/NBm7ZlYs5Vb6b6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Arrays - Lab\\07. Equal Arrays\\07. Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

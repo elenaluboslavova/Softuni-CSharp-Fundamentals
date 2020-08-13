@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fb8Og6B2Zrf1lMnLuW9Pxtz33r2zll5TInEEft6igTcUQ+gE9iiDviLIik6D1Jxf4ViW8QqOuTO6lEOzKQOAzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Arrays - Lab\\06. Even and Odd Subtraction\\06. Even and Odd Subtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
