@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\bin\Debug\netcoreapp3.1\Text Processing - More Exercise.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Text Processing - More Exercise\Text Processing - More Exercise\obj\Debug\netcoreapp3.1\Text Processing - More Exercise.genruntimeconfig.cache
