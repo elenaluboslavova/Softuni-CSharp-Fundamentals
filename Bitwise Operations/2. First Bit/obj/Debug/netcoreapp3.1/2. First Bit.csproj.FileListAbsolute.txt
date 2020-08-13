@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\bin\Debug\netcoreapp3.1\2. First Bit.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Bitwise Operations\2. First Bit\obj\Debug\netcoreapp3.1\2. First Bit.genruntimeconfig.cache
