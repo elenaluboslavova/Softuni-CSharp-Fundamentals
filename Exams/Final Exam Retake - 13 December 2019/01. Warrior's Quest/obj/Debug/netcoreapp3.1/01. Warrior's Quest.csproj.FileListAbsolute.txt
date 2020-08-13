@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\bin\Debug\netcoreapp3.1\01. Warrior's Quest.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\01. Warrior's Quest\obj\Debug\netcoreapp3.1\01. Warrior's Quest.genruntimeconfig.cache

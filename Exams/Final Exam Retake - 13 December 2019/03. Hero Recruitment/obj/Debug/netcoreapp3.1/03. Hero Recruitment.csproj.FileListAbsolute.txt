@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\bin\Debug\netcoreapp3.1\03. Hero Recruitment.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\03. Hero Recruitment\obj\Debug\netcoreapp3.1\03. Hero Recruitment.genruntimeconfig.cache

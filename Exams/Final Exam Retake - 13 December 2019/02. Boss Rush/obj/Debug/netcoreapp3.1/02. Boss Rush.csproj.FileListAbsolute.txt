@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\bin\Debug\netcoreapp3.1\02. Boss Rush.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 13 December 2019\02. Boss Rush\obj\Debug\netcoreapp3.1\02. Boss Rush.genruntimeconfig.cache
