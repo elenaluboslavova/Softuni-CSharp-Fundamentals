@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

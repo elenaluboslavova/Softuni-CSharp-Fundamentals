@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.genruntimeconfig.cache

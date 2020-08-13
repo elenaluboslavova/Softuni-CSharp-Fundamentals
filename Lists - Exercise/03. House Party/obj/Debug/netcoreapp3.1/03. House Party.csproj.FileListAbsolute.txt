@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache
