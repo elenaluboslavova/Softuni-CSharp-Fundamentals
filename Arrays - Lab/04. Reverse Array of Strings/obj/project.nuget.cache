@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CEL5TB4JWq/CSHcK+sbRlcb2pah32QX/pJj8FS49blhiSXLONnZu5I/v3KJqvemVoMeq77T/AMQBPIMLy3qxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

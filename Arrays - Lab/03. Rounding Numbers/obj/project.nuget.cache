@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSyOflsYsL/VYLurJbSNM0TzRu/dhhlyfBjuqfh0lTDV/WjC812iBHzqGJswFpkg/xuO/aq/Nzg0lMUov7jPtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Arrays - Lab\\03. Rounding Numbers\\03. Rounding Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
