@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.genruntimeconfig.cache
