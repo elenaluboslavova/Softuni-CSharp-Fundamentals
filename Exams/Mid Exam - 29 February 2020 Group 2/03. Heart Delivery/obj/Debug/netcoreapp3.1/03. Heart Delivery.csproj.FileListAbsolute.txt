@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 2\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache
