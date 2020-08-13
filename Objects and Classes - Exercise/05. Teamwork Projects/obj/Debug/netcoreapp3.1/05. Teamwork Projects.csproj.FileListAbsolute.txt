@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache
