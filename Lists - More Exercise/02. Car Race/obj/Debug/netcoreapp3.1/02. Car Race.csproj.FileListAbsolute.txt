@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.genruntimeconfig.cache
