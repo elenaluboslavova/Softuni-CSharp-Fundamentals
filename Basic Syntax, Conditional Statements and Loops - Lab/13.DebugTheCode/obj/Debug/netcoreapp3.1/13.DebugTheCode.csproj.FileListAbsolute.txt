@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\bin\Debug\netcoreapp3.1\13.DebugTheCode.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13.DebugTheCode\obj\Debug\netcoreapp3.1\13.DebugTheCode.genruntimeconfig.cache

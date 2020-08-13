@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.genruntimeconfig.cache
