@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ktthv5R7c7z9IYU9OWHuM4awayhP54cPMhuMQaTPAseZRq9H9jYMQ6PV3871JmLgbeAzcDHWW+R98N+bZnhqVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Exercise\\07. Water Overflow\\07. Water Overflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

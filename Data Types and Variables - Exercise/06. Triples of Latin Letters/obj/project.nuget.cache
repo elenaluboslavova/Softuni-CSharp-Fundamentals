@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Npk3RTYDj98UeL9btlywBj1lhOPz2bhxOaFNLHBq7gLLT43pcjJHLcjCtLuJ1O2ubCgfuPNBXbSUUAUpedeLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Exercise\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
