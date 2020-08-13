@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache

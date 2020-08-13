@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.genruntimeconfig.cache
