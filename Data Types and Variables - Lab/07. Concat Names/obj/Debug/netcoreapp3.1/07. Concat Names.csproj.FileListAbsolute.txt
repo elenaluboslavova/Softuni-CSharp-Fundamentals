@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Data Types and Variables - Lab\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBqTiwrH3v8UGgFlw3Uxmi05lW8SAFknY4STOaAA6pQpnArDxL7Yby6JV1avs+H8cxyzLcSX3ZrOPcu++D+pjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Lab\\05. Special Numbers\\05. Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

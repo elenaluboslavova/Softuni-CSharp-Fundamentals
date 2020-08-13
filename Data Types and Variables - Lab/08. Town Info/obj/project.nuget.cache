@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6QrRyp1eXlKRyj2iuN3R5e8YMVI1avMm8eJ42FdQ5nkG+xaECaU3OZLJCMkVa9x5WicE2BxhhHEVuaGSANJsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elena Luboslavova\\Desktop\\SoftUni\\C# Fundamentals\\Data Types and Variables - Lab\\08. Town Info\\08. Town Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena Luboslavova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
