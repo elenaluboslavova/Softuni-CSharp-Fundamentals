@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache
