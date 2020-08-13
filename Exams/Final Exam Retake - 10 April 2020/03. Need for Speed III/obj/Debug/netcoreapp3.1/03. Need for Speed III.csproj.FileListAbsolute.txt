@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam Retake - 10 April 2020\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.genruntimeconfig.cache
