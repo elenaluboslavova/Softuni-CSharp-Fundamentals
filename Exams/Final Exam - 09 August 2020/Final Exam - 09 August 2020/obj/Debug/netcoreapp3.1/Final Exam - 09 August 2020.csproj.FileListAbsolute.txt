@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\bin\Debug\netcoreapp3.1\Final Exam - 09 August 2020.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Exams\Final Exam - 09 August 2020\Final Exam - 09 August 2020\obj\Debug\netcoreapp3.1\Final Exam - 09 August 2020.genruntimeconfig.cache
