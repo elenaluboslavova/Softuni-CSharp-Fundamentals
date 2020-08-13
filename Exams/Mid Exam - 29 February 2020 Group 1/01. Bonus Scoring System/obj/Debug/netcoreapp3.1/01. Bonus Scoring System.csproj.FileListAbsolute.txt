@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Mid Exam - 29 February 2020 Group 1\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.genruntimeconfig.cache
