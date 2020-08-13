@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.genruntimeconfig.cache
